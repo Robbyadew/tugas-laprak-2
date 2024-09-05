@@ -1,0 +1,15 @@
+from abc import update_abstractmethods
+perhari = 8 #jam
+perjam = 30000
+bulan_agustus = 31 #hari
+hari_tidak_masuk = 3
+tunjangan = 10/100
+gaji_tiap_bulan = 240000 * 28
+upah_lembur_bulan_agustus = 10000 * 5
+total_tunjangan = 672000
+
+x =(bulan_agustus-3)*perhari
+x
+print('1.Gaji pada bulan agustus =' ,x*perjam)
+print('2.Tunjangan yang diterima pada bulan agustus =' ,gaji_tiap_bulan*tunjangan)
+print('3.Total gaji + lebur dwi =' ,gaji_tiap_bulan+upah_lembur_bulan_agustus+total_tunjangan)
