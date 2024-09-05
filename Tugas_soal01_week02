@@ -1,0 +1,17 @@
+from typing import ParamSpec
+Panjang = 20.5
+Lebar = 25
+Tinggi = 10
+keliling =2*(Panjang+Lebar)
+luas = Panjang * Lebar
+volume = Panjang * Lebar * Tinggi
+
+print('panjang = 20,5')
+print('lebar = 25')
+print('tinggi = 10')
+keliling =2*(Panjang+Lebar)
+print('keliling = ',keliling)
+luas = Panjang * Lebar
+print ('luas = ',luas)
+volume = (Panjang * Lebar * Tinggi)
+print ('volume =' ,volume)
