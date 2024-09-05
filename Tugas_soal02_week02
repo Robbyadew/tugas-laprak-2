@@ -1,0 +1,6 @@
+print('1.Rata-Rata nilai Shafira =',nilai_Shafira)
+print('2.Jumlah nilai hanif dan andi =',jumlah_nilai_hanif_dan_andi)
+print('3.Rata-Rata nilai kalkulus widya, Dhanar, Hikma dan Nedia =' ,rata_rata_kalkulus)
+print('  Rata-Rata nilai statistika widya, Dhanar, Hikma dan Nedia=' ,rata_rata_statistika)
+print('4.Rata-Rata nilai mata kuliah kalkulus =',rata_rata_nilai_kuliah_kalkulus)
+print('5.Rata-rata nilai mata kuliah statistika =',rata_rata_nilai_kuliah_statistika)
